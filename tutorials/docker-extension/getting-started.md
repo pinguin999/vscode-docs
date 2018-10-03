@@ -60,6 +60,17 @@ Once the extensions are installed, log into your Azure account by navigating to 
 
 ![Sign in to Azure](../images/app-service-extension/sign-in.png)
 
+### Troubleshooting
+
+If you see the error **"Cannot find subscription with name [subscription ID]"**, this may be because you are behind a proxy and unable to reach the Azure API. Configure `HTTP_PROXY` and `HTTPS_PROXY` environment variables with your proxy information in your terminal using `export`.
+
+```sh
+export HTTPS_PROXY=https://username:password@proxy:8080
+export HTTP_PROXY=http://username:password@proxy:8080
+```
+
+If setting the environment variables doesn't correct the issue, contact us by clicking the **I ran into an issue** button below.
+
 ### App code
 
 If you don't already have an app you'd like to work with, use one of the following:
@@ -92,5 +103,5 @@ Before continuing, verify the following:
 
 ----
 
-<a class="tutorial-next-btn" href="/tutorials/docker-extension/create-registry">I've installed the extensions</a>
+<a class="tutorial-next-btn" href="/tutorials/docker-extension/create-registry">I've installed the prerequisites</a>
 <a class="tutorial-feedback-btn" onclick="reportIssue('docker-extension', 'getting-started')" href="javascript:void(0)">I ran into an issue</a>
