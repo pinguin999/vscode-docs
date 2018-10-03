@@ -4,7 +4,7 @@ Area: docker
 TOCTitle: Getting started
 PageTitle: Getting started with Docker images
 MetaDescription: Prerequisites for deploying Docker containers to Azure App Services with Visual Studio Code
-DateApproved: 09/27/2018
+DateApproved: 10/03/2018
 ---
 # Deploy to Azure using Docker
 
@@ -38,7 +38,7 @@ Install the following:
 
 - A suitable Node.js or Python environment:
   - [Node.js and npm](https://nodejs.org/en/download), or
-  - Python and the Python extension as described on [Python Tutorial - Prerequisites](../../docs/python/python-tutorial.md).
+  - Python and the Python extension as described on [Python Tutorial - Prerequisites](/docs/python/python-tutorial.md).
 
 ### Docker and Azure App Service extensions
 
@@ -68,9 +68,9 @@ If you don't already have an app you'd like to work with, use one of the followi
 
 - Python: use either of the following samples, which already include the Docker-related files described in a later step of thus tutorial:
 
-  - The [python-sample-vscode-django-tutorial](https://github.com/Microsoft/python-sample-vscode-django-tutorial) sample, which is the result of following the [Django Tutorial](../../python/tutorial-django.md).
+  - [python-sample-vscode-django-tutorial](https://github.com/Microsoft/python-sample-vscode-django-tutorial), which is the result of following the [Django Tutorial](/docs/python/tutorial-django.md).
 
-  - The [python-sample-vscode-flask-tutorial](https://github.com/Microsoft/python-sample-vscode-flask-tutorial) sample, which is the result of following the [Flask Tutorial](../../python/tutorial-flask.md).
+  - [python-sample-vscode-flask-tutorial](https://github.com/Microsoft/python-sample-vscode-flask-tutorial), which is the result of following the [Flask Tutorial](/docs/python/tutorial-flask.md).
 
 ## Prerequisite check
 

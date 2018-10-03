@@ -1,10 +1,10 @@
 ---
-Order: 5
+Order: 7
 Area: docker
 TOCTitle: Viewing logs
 PageTitle: Viewing the application logs
 MetaDescription: Viewing container logs for apps deployed to Azure App Services with Visual Studio Code
-DateApproved: 9/27/2018
+DateApproved: 10/03/2018
 ---
 # Viewing Logs
 

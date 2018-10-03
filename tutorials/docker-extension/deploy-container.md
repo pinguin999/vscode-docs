@@ -1,10 +1,10 @@
 ---
-Order: 4
+Order: 6
 Area: docker
 TOCTitle: Deploy the image
 PageTitle: Deploy a Docker image to Azure App Service
 MetaDescription: Deploy a Docker image to Azure App Services with Visual Studio Code
-DateApproved: 09/27/2018
+DateApproved: 10/03/2018
 ---
 # Deploy the image to Azure App Service
 

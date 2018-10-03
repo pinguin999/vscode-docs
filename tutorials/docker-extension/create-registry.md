@@ -4,7 +4,7 @@ Area: docker
 TOCTitle: Create a registry
 PageTitle: Create a container registry
 MetaDescription: Create a container registry for deploying Docker containers to Azure App Services with Visual Studio Code
-DateApproved: 09/27/2018
+DateApproved: 10/03/2018
 ---
 # Create an Azure container registry
 
