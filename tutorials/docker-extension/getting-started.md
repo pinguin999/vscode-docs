@@ -22,7 +22,7 @@ You experience the basics of containers and images in this tutorial. For additio
 
 ## Prerequisites
 
-To complete this tutorial you need an Azure account, Docker, Visual Studio Code with , a Node.js or Python environment, and an app that you'd like to deploy using containers.
+To complete this tutorial you need an Azure account, Docker, Visual Studio Code with the necessary extensions, a Node.js or Python environment, and an app that you'd like to deploy using containers.
 
 ### Azure account
 
